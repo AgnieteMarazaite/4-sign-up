@@ -17,6 +17,8 @@ main {
 .bottom-links {
   background-color: red;
 }
+.bottom-links > a { 
+}
 .bottom-links > span {
   background-color: blue;
 }
@@ -24,6 +26,7 @@ main {
 .main-title {
   font-size: 60px;
 }
+
 .right-column {
     width: 60%;
     float: left;
@@ -31,9 +34,7 @@ main {
 }
 
 .close {
-
 }
 
-form {
-  
+.form {  
 }
